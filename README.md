@@ -1,4 +1,4 @@
-## Hi there 👋,   I'm Paulina 🙋🏽‍♀️ , Welcome to my Profile✨
+<h1 align="center"> Hi there 👋,   I'm Paulina 🙋🏽‍♀️ , Welcome to my Profile✨</h1> 
 
  <p>- <i>Web development technician with full-stack knowledge. Front-end development enthusiast with ReactJS.</i></p>
 
@@ -71,7 +71,7 @@
 
 <a target="_blank" href="https://www.linkedin.com/in/paulina-sarai-paredes-092093211/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 &emsp;
-<a target="_blank" href="mailto:pauly.pards@gmail.com
+<a target="_blank" href="mailto:pauly.pards@gmail.com"
 ><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 &emsp;
 
